@@ -1,0 +1,17 @@
+{
+  "name": "-",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+ "gulp": "3.9.1"
+  },
+  "dependencies": {
+
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
