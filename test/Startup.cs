@@ -38,7 +38,7 @@ namespace test
             }
 
             app.UseStaticFiles();
-
+           
             app.UseMvc();
         }
     }
